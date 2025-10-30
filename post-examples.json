@@ -1,10 +1,10 @@
 [
   {
-    "topic": "Your topic",
-    "post": "Your post"
+    "topic": "Machine Learning Models",
+    "post": "Just finished training a Gradient Boosting model that outperformed my previous XGBoost version on accuracy and runtime!"
   },
   {
-    "topic": "Your topic",
-    "post": "Your post"
+    "topic": "Travel",
+    "post": "Spent the weekend in Krabi — stunning beaches, great food, and amazing diving spots. Definitely a must-visit!"
   }
 ]
