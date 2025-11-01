@@ -1,7 +1,5 @@
 import json
 
-# Run "uv sync" to install the below packages
-from dotenv import load_dotenv
 import requests
 
 load_dotenv()
